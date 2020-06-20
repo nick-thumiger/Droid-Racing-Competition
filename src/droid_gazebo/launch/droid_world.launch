@@ -27,9 +27,11 @@
   </include>
 
   
-  <param name="robot_description" command="$(find xacro)/xacro.py '$(find droid_description)/urdf/droid.xacro'"/>
-
-  <node name="droid_spawn" pkg="gazebo_ros" type="spawn_model" output="screen"
-   args="-urdf -param robot_description -model droid" />
+  
+  <group ns="uni_teamname">
+    <param name="robot_description" command="$(find xacro)/xacro.py '$(find droid_description)/urdf/droid.xacro'"/>
+    <node name="droid_spawn" pkg="gazebo_ros" type="spawn_model" output="screen"
+      args="-urdf -param robot_description -model droid" />
+  </group>
 
 </launch>

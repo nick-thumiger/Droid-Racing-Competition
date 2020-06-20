@@ -37,7 +37,7 @@
 
 
   <gazebo reference="chassis">
-    <material>Gazebo/Orange</material>
+    <material>Gazebo/Red</material>
   </gazebo>
 
   <gazebo reference="left_wheel">
@@ -83,7 +83,7 @@
   </gazebo>
 
   <!-- hokuyo -->
-  <gazebo reference="hokuyo">
+  <!--gazebo reference="hokuyo">
     <sensor type="gpu_ray" name="head_hokuyo_sensor">
       <pose>0 0 0 0 0 0</pose>
       <visualize>false</visualize>
@@ -104,15 +104,15 @@
         </range>
         <noise>
           <type>gaussian</type>
-          <!-- Noise parameters based on published spec for Hokuyo laser
+          <! Noise parameters based on published spec for Hokuyo laser
                achieving "+-30mm" accuracy at range < 10m.  A mean of 0.0m and
                stddev of 0.01m will put 99.7% of samples within 0.03m of the true
-               reading. -->
+               reading. >
           <mean>0.0</mean>
           <stddev>0.01</stddev>
         </noise>
       </ray>
     </sensor>
-  </gazebo>
+  </gazebo-->
 
 </robot>

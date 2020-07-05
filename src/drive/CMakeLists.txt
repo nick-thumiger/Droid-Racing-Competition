@@ -5,7 +5,7 @@ project(drive)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  OpenCV REQUIRED
+  #OpenCV REQUIRED
   sensor_msgs
   cv_bridge
   roscpp
@@ -187,7 +187,7 @@ include_directories(
 # if(TARGET ${PROJECT_NAME}-test)
 #   target_link_libraries(${PROJECT_NAME}-test ${PROJECT_NAME})
 # endif()
-target_link_libaries(your_node ${OpenCV_LIBS})
+# target_link_libaries(your_node ${OpenCV_LIBS})
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)

@@ -1,0 +1,3 @@
+Symlinking /home/user/drc_ws/devel/lib/pkgconfig/droid_gazebo.pc
+Symlinking /home/user/drc_ws/devel/share/droid_gazebo/cmake/droid_gazeboConfig.cmake
+Symlinking /home/user/drc_ws/devel/share/droid_gazebo/cmake/droid_gazeboConfig-version.cmake

@@ -1,0 +1,3 @@
+Symlinking /home/user/drc_ws/devel/lib/pkgconfig/drc_box.pc
+Symlinking /home/user/drc_ws/devel/share/drc_box/cmake/drc_boxConfig-version.cmake
+Symlinking /home/user/drc_ws/devel/share/drc_box/cmake/drc_boxConfig.cmake

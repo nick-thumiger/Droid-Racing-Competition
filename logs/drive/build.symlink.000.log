@@ -1,0 +1,3 @@
+Symlinking /home/user/drc_ws/devel/lib/pkgconfig/drive.pc
+Symlinking /home/user/drc_ws/devel/share/drive/cmake/driveConfig-version.cmake
+Symlinking /home/user/drc_ws/devel/share/drive/cmake/driveConfig.cmake

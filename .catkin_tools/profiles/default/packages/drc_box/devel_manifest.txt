@@ -1,0 +1,4 @@
+drc_box
+/home/user/drc_ws/devel/.private/drc_box/lib/pkgconfig/drc_box.pc /home/user/drc_ws/devel/lib/pkgconfig/drc_box.pc
+/home/user/drc_ws/devel/.private/drc_box/share/drc_box/cmake/drc_boxConfig-version.cmake /home/user/drc_ws/devel/share/drc_box/cmake/drc_boxConfig-version.cmake
+/home/user/drc_ws/devel/.private/drc_box/share/drc_box/cmake/drc_boxConfig.cmake /home/user/drc_ws/devel/share/drc_box/cmake/drc_boxConfig.cmake

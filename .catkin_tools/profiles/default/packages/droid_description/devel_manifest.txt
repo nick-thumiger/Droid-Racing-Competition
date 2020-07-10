@@ -1,0 +1,4 @@
+droid_description
+/home/user/drc_ws/devel/.private/droid_description/lib/pkgconfig/droid_description.pc /home/user/drc_ws/devel/lib/pkgconfig/droid_description.pc
+/home/user/drc_ws/devel/.private/droid_description/share/droid_description/cmake/droid_descriptionConfig.cmake /home/user/drc_ws/devel/share/droid_description/cmake/droid_descriptionConfig.cmake
+/home/user/drc_ws/devel/.private/droid_description/share/droid_description/cmake/droid_descriptionConfig-version.cmake /home/user/drc_ws/devel/share/droid_description/cmake/droid_descriptionConfig-version.cmake
